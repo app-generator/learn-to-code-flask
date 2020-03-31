@@ -27,10 +27,14 @@ This opensource Flask web app is used as a sample to explain the build and deplo
 
 ![Flask Dashboard Black - Open-Source Admin Panel Coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
+<br />
+
 > App Links 
 
 - [Flask Dashboard Black](https://github.com/app-generator/flask-black-dashboard) the source code published on Github
 - [Flask Dashboard Black](https://flask-dashboard-black.appseed.us/login) - LIVE Demo
+
+<br />
 
 > App Features
 
