@@ -4,6 +4,8 @@ The resources used by the **Flask Python - Tutorial for beginners** article publ
 
 The article aims to help beginners to accommodate with Flask, the popular web framework written in Python. To follow and learn something from this tutorial there is no need to have a previous programming background, the content will be presented in the most simple way possible, enhanced at some point with visual materials. 
 
+<br />
+
 ## Article topics
 
 - [What is Python](https://dev.to/sm0ke/flask-python-tutorial-for-beginners-222f#what-is-python)
@@ -16,6 +18,8 @@ The article aims to help beginners to accommodate with Flask, the popular web fr
 - Useful Flask modules
 - Build a real Flask Application
 - Deployment with Heroku and Docker
+
+<br />
 
 ## Real App - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
 
@@ -38,6 +42,8 @@ This opensource Flask web app is used as a sample to explain the build and deplo
 - Deployment scripts: Docker, Gunicorn / Nginx
 - UI Kit: **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard?ref=appseed)** (Free version) provided by **[Creative-Tim](https://www.creative-tim.com/?ref=appseed)**
 - **MIT License**
+
+<br />
 
 ---
 [Flask Python - Tutorial for beginners](https://dev.to/sm0ke/flask-python-tutorial-for-beginners-222f) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
