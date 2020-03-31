@@ -29,8 +29,8 @@ This opensource Flask web app is used as a sample to explain the build and deplo
 
 > App Links 
 
-- Flask Dashboard Black the source code published on Github
-- Flask Dashboard Black - LIVE Demo
+- [Flask Dashboard Black](https://github.com/app-generator/flask-black-dashboard) the source code published on Github
+- [Flask Dashboard Black](https://flask-dashboard-black.appseed.us/login) - LIVE Demo
 
 > App Features
 
